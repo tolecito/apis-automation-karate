@@ -1,0 +1,6 @@
+name,username,email,street,suite,city,zipcode
+Test User,testuser,test@user.com,Has No Name,Apt. 123,Electri,54321-6789
+Alice Smith,alices,alice@mail.com,Maple Street,Suite 45B,Springfield,11111-2222
+Bob Johnson,bobj,bob@work.net,Oak Avenue,Apt. 7A,Riverdale,22222-3333
+Carla Lopez,carlal,carla@example.org,Pine Road,Block 9,Metropolis,33333-4444
+David Kim,dkim2025,david.kim@test.io,Cedar Drive,Floor 12,Gotham,44444-5555
